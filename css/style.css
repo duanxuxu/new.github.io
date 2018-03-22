@@ -118,15 +118,21 @@ address span{
 .company_details h4,.education_details h4{
 	color:#333;
 	font-weight:600;
-	font-size:1.5em;
+	font-size:1rem;
 	margin-bottom:6px;
 	font-family: 'Varela Round', sans-serif;
 }
 .company_details h4 span,.education_details h4 span{
-	font-size: 0.65em;
-  margin-left: 5px;
-  color: #999;
-  font-weight:400;
+    font-size: 0.9rem;
+    margin-left: 5px;
+    color: #999;
+    font-weight: 400;
+    float: right;
+}
+.education_details h4 span{float:none !important;
+font-size: 0.7rem !important;
+margin-left:15px;
+
 }
 .company_details h6,.education_details h6{
 	font-weight:400;
