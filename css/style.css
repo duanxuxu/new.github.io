@@ -50,6 +50,10 @@ a:focus {
 	font-weight:600;
 	font-size:1em;
 	color:#fff;
+  margin-bottom:1rem;
+	line-height:1.5rem;	
+	
+	
 }  
 .copyrights{text-indent:-9999px;height:0;line-height:0;font-size:0;overflow:hidden;}
 
